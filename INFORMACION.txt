@@ -1,0 +1,6 @@
+Este es un ejemplo de login con sesión de la página web "codeofaninja".
+
+
+El script "reset_password.php" depende de los scripts de servidor remoto 11 y 12, que no están implementados por el momento y que a su vez
+dependen de un método llamado mail() que está en los scripts anteriores (entre 1 y 10).
+
